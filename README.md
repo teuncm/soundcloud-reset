@@ -1,4 +1,4 @@
-#### SoundCloud unlike, uncomment, unrepost, unfollow
+#### SoundCloud Reset
 
 #### Usage
 1. Download a userscript manager like [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
