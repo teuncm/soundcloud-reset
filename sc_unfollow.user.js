@@ -10,7 +10,7 @@
 /* Number of deletions. N = -1 will delete everything. */
 var N = -1;
 /* Time interval in milliseconds between each delete. */
-var interval = 120;
+var interval = 125;
 
 var $ = window.jQuery;
 $(window).on("load", function() {
